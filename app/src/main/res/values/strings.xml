@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork_010</string>
+    <string name="saveBut">Сохранить</string>
+    <string name="writeNote">напиши заметку</string>
+</resources>
